@@ -1,4 +1,6 @@
 *.exe
 *.pdb
 *.db
+*.opendb
+.vs
 Debug
